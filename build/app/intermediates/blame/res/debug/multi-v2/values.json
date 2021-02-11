@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/gregorio/development/Apps/expenses/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/gregorio/development/App-Expenses/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/home/gregorio/development/Apps/expenses/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/gregorio/development/App-Expenses/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
